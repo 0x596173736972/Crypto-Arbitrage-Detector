@@ -59,6 +59,3 @@ This will start the application and open it in your web browser.
 
 This software is for educational purposes only. Cryptocurrency trading involves significant risk. Always conduct your own research before making any trading decisions.
 
-## License
-
-MIT
